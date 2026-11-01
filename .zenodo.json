@@ -1,0 +1,13 @@
+{
+  "title": "Olist-QA-T: A Benchmark and Toolkit for Time-Aware Graph-RAG over Enterprise Transactions",
+  "upload_type": "software",
+  "description": "<p>Benchmark and toolkit for temporal question answering over enterprise transactional data (Olist e-commerce tables). The release contains 90 SQL- and pandas-validated temporal questions with gold time anchors, the 150 Olist-QA questions, a temporal knowledge-graph layer (interval-typed edges, 38-node time hierarchy), seven reference retrieval systems, deterministic temporal-faithfulness diagnostics, and the raw outputs of all reference runs. Code is released under MIT, data artefacts under CC BY-NC-SA 4.0 (see DATA_LICENSE.md).</p>",
+  "creators": [
+    {"name": "Lücke, Moritz", "affiliation": "Fraunhofer IAIS", "orcid": "0009-0004-5383-5164"},
+    {"name": "Allende-Cid, Héctor", "affiliation": "Fraunhofer IAIS"}
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["benchmark", "retrieval-augmented generation", "Graph-RAG", "temporal question answering", "enterprise data", "evaluation"]
+}

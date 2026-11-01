@@ -1,0 +1,14 @@
+# Olist-QA-T: Python dependencies (Python >= 3.10)
+#
+# The analysis and significance scripts in scripts/ need only the
+# standard library. The packages below are needed to rebuild the KG,
+# the temporal layer, and to run the retrievers. Versions are those
+# the reference runs used.
+
+pandas==2.3.3
+numpy==2.2.6
+networkx==3.4.2
+matplotlib==3.10.9
+python-igraph==1.0.0   # Leiden community detection
+openai==2.38.0         # OpenAI and OpenAI-compatible endpoints
+tqdm==4.67.3

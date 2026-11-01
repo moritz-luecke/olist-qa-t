@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+title: "Olist-QA-T: A Benchmark and Toolkit for Time-Aware Graph-RAG over Enterprise Transactions"
+type: software
+authors:
+  - family-names: "Lücke"
+    given-names: "Moritz"
+    affiliation: "Fraunhofer IAIS"
+    orcid: "https://orcid.org/0009-0004-5383-5164"
+  - family-names: "Allende-Cid"
+    given-names: "Héctor"
+    affiliation: "Fraunhofer IAIS"
+license:
+  - MIT
+  - CC-BY-NC-SA-4.0
+keywords:
+  - benchmark
+  - retrieval-augmented generation
+  - Graph-RAG
+  - temporal question answering
+  - enterprise data
+  - evaluation

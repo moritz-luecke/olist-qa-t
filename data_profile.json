@@ -1,0 +1,76 @@
+{
+ "orders_per_quarter": {
+  "2016Q3": 4,
+  "2016Q4": 325,
+  "2017Q1": 5262,
+  "2017Q2": 9349,
+  "2017Q3": 12642,
+  "2017Q4": 17848,
+  "2018Q1": 21208,
+  "2018Q2": 19979,
+  "2018Q3": 12820,
+  "2018Q4": 4
+ },
+ "top20_categories": {
+  "bed_bath_table": 11115,
+  "health_beauty": 9670,
+  "sports_leisure": 8641,
+  "furniture_decor": 8334,
+  "computers_accessories": 7827,
+  "housewares": 6964,
+  "watches_gifts": 5991,
+  "telephony": 4545,
+  "garden_tools": 4347,
+  "auto": 4235,
+  "toys": 4117,
+  "cool_stuff": 3796,
+  "perfumery": 3419,
+  "baby": 3065,
+  "electronics": 2767,
+  "stationery": 2517,
+  "fashion_bags_accessories": 2031,
+  "pet_shop": 1947,
+  "office_furniture": 1691,
+  "consoles_games": 1137
+ },
+ "n_categories": 71,
+ "top15_states": {
+  "SP": 41746,
+  "RJ": 12852,
+  "MG": 11635,
+  "RS": 5466,
+  "PR": 5045,
+  "SC": 3637,
+  "BA": 3380,
+  "DF": 2140,
+  "ES": 2033,
+  "GO": 2020,
+  "PE": 1652,
+  "CE": 1336,
+  "PA": 975,
+  "MT": 907,
+  "MA": 747
+ },
+ "payment_types": {
+  "credit_card": 76795,
+  "boleto": 19784,
+  "voucher": 5775,
+  "debit_card": 1529,
+  "not_defined": 3
+ },
+ "price_range": [
+  0.85,
+  74.99,
+  6735.0
+ ],
+ "freight_range": [
+  0.0,
+  16.26,
+  409.68
+ ],
+ "installments_range": [
+  0,
+  1,
+  24
+ ]
+}

@@ -1,0 +1,33 @@
+# Python / virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+
+# Olist raw tables: not redistributed, download them from Kaggle (see README)
+data/*.csv
+
+# Generated artefacts are large and can be rebuilt. Only the released
+# benchmark files and the run outputs are tracked.
+outputs/*
+!outputs/.gitkeep
+!outputs/temporal_questions_90.jsonl
+!outputs/time_buckets.jsonl
+!outputs/results/
+# pre-fix backups, pilot runs, and the discarded LLM-judge variant
+outputs/results/_pre_distinctfix/
+outputs/results/pilot_system*
+outputs/results/pilot_vanilla_v2_summary.md
+outputs/results/faithfulness_*
+
+# Development-only files
+coverage_labels.jsonl
+scripts/patch_calibrate.py
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
