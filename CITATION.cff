@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this resource, please cite it as below."
 title: "Olist-QA-T: A Benchmark and Toolkit for Time-Aware Graph-RAG over Enterprise Transactions"
 type: software
+doi: "10.5281/zenodo.23858489"
+repository-code: "https://github.com/moritz-luecke/olist-qa-t"
 authors:
   - family-names: "Lücke"
     given-names: "Moritz"

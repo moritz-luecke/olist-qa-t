@@ -1,6 +1,6 @@
 # Olist-QA-T: Time-Aware Graph-RAG over Enterprise Transactions
 
-<!-- After the first Zenodo release, add the DOI badge here. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23858489.svg)](https://doi.org/10.5281/zenodo.23858489)
 
 Olist-QA-T is a benchmark and toolkit for temporal question answering over
 enterprise transactional data. It extends Olist-QA (150 questions over the
